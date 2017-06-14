@@ -1,0 +1,2 @@
+2017-06-14 08:58:36 INFO  HttpMethodDirector:438 - I/O exception (java.net.ConnectException) caught when processing request: Connection timed out: connect
+2017-06-14 08:58:36 INFO  HttpMethodDirector:444 - Retrying request
